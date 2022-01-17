@@ -1,0 +1,24 @@
+#picture
+{
+    height:300px;
+    width:20%;
+    border:10px solid pink;
+    margin-left:39%;
+    
+
+}
+
+.image
+{
+    height:300px;
+    width:100%;
+    position:relative;
+}
+
+#nature
+{
+    height:300px;
+    width:20%;
+    border:10px solid rgb(32, 107, 39);
+    margin-left:39%;
+}
