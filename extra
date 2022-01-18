@@ -1,3 +1,4 @@
+//To commit to the data
 git init
 git add .
 git commit -m "first commit"
